@@ -1,0 +1,11 @@
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\bin\Debug\2025.04_L3_MSOA.exe.config
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\bin\Debug\2025.04_L3_MSOA.exe
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\bin\Debug\2025.04_L3_MSOA.pdb
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\2025.04_L3_MSOA.csproj.AssemblyReference.cache
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\_2025._04_L3_MSOA.Form1.resources
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\_2025._04_L3_MSOA.Properties.Resources.resources
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\2025.04_L3_MSOA.csproj.GenerateResource.cache
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\2025.04_L3_MSOA.csproj.CoreCompileInputs.cache
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\2025.04_L3_MSOA.exe
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\2025.04_L3_MSOA.pdb
+C:\Users\mihae\source\repos\2025.04_L3_MSOA\obj\Debug\_2025._04_L3_MSOA.AdaugareJucator.resources
